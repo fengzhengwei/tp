@@ -1,0 +1,36 @@
+[ 2017-02-04T11:03:26+08:00 ] 127.0.0.1 /lianxi/delete?id=id
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Delete
+
+[ 2017-02-04T11:03:49+08:00 ] 127.0.0.1 /lianxi/delete?id=n_id
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Delete
+
+[ 2017-02-04T11:04:07+08:00 ] 127.0.0.1 /lianxi/delete?n_id=id
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Delete
+
+[ 2017-02-04T11:04:36+08:00 ] 127.0.0.1 /lianxi/delete?n_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Delete
+
+[ 2017-02-04T11:08:20+08:00 ] 127.0.0.1 /lianxi/delete?n_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Delete
+
+[ 2017-02-04T11:09:05+08:00 ] 127.0.0.1 /lianxi/Index/delete?n_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
